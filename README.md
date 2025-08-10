@@ -5,4 +5,5 @@
      argument with an array of key arguments.
    * Generates string sequence stored in an array, which can be passed as arguments list
      to some other command or script.
-   * - > https://stackoverflow.com/questions/3685970/check-if-a-bash-array-contains-a-value
+   - > https://stackoverflow.com/questions/3685970/check-if-a-bash-array-contains-a-value
+   - > https://unix.stackexchange.com/questions/609287/bash-array-appending-element-issue
